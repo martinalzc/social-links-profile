@@ -84,3 +84,9 @@ article p{
     color: hsl(0, 0%, 8%);
     font-weight: 700;
 }
+
+@media (max-width: 375px){
+    article{
+        width: 330px;
+    }
+}
